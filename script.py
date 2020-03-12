@@ -1,3 +1,6 @@
+# this script is able to check connectivity of the device 
+# according to that it uses Google services(if online)
+# and CMU Sphinx (if offline)
 import speech_recognition as sr
 print("###welcome to the 🗣️ speech-recognition-command-line-utility🗣️ .###\nChoose one of the following option to proceed :")
 print("->enter[1] to test speech recognition")
