@@ -1,6 +1,6 @@
 # speech-recognition
 
-This is a python script that will first **recognize whether device is connected to internet or not**, on the basis of that information **it chooses proper speech recognition engine and apply to the service**.
+This is a python script that will first **recognize whether device is connected to internet or not**, on the basis of that information **it will choose proper speech recognition engine and apply to the service**.
 
 ## Dependencies
 
