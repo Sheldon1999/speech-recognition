@@ -1,6 +1,6 @@
 # speech-recognition
 
-This is a python script that will first **recognize whether device is connected to internet or not**, on the basis of that information **it will choose proper speech recognition engine and apply to the service**.
+This is a python script that will first **recognize whether device is connected to internet or not**, on the basis of that information **it will choose proper speech recognition engine and apply to the service**. I have also added a model(Indian english) which i have i have trained with my voice you can try that [model](https://github.com/Sheldon1999/speech-recognition/tree/master/en-in), or you can make [your own speech recognition model](https://cmusphinx.github.io/wiki/tutorialadapt/) and just replace my model with your model.
 
 ## Dependencies
 
@@ -14,5 +14,7 @@ This is a python script that will first **recognize whether device is connected 
 ## Local setup
 
 1. install all the dependencies above.
-2. open command prompt or terminal.
+2. download or clone repo.
+3. open command prompt or terminal.
+4. go to the repo folder.
 3. run [script](https://github.com/Sheldon1999/speech-recognition/blob/master/script.py).
