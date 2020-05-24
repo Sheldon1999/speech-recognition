@@ -23,3 +23,8 @@ This is a python script that will first **recognize whether device is connected 
 
 You can make [your own speech recognition model](https://cmusphinx.github.io/wiki/tutorialadapt/) and just replace my model with your model.To replace go to line.68 in [script.py](https://github.com/Sheldon1999/speech-recognition/blob/master/script.py) and add the path specified in comments.
 
+## Screenshots
+
+![scrnshot1](https://github.com/Sheldon1999/speech-recognition/blob/master/screenshots/Screenshot%20from%202020-05-24%2011-26-00.png)
+![scrnshot2](https://github.com/Sheldon1999/speech-recognition/blob/master/screenshots/Screenshot%20from%202020-05-24%2011-27-24.png)
+![scrnshot3](https://github.com/Sheldon1999/speech-recognition/blob/master/screenshots/Screenshot%20from%202020-05-24%2011-27-35.png)
