@@ -1,4 +1,5 @@
-# speech-recognition
+# ssGrapher
+### A smart Stenographer
 
 This is a python script that will first **recognize whether device is connected to internet or not**, on the basis of that information **it will choose proper speech recognition engine and apply to the service**. I have also added a model(Indian english) which i have trained with my voice you can try that [model](https://github.com/Sheldon1999/speech-recognition/tree/master/en-in).
 
